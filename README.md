@@ -1,4 +1,4 @@
-# Beginning TensorFlow with Python is a Book for absolute beginners who have bot coded before.
+# Beginning TensorFlow with Python is a Book for absolute beginners who have not coded before.
 
 ## I share my learning experience on Flutter, Dart, and Algorithm in - [https://sanjibsinha.com](https://sanjibsinha.com)
 
