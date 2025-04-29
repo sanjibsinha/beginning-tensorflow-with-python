@@ -1,9 +1,3 @@
-Excellent! Let's begin with **Module 0: Introduction & Setting Up**.
-
-This module is all about getting our bearings, understanding the landscape we're entering, and setting up our workspace. Think of it as opening the map and finding the starting point before we begin the trek.
-
----
-
 **Module 0: Introduction & Setting Up**
 
 **Part 1: Understanding the Landscape - AI, ML, and Deep Learning**
